@@ -1,8 +1,7 @@
 # Four Wins (Connect Four) – FOPBot
 
-A lightweight **Connect Four** implementation in **Java** using the **FOPBot** simulation framework.
-Players drop colored tokens into a grid; the first to align **four** tokens horizontally, vertically, or diagonally wins.
-The board is rendered as a FOPBot world; tokens are represented by robots colored with `RobotFamily.SQUARE_BLUE` and `RobotFamily.SQUARE_RED`.
+A lightweight **Connect Four** implementation in **Java**. Players drop colored tokens into a grid; the first to align **four** tokens horizontally, vertically, or diagonally wins.
+The board is rendered as a Bot-framework world; tokens are represented by robots colored with `RobotFamily.SQUARE_BLUE` and `RobotFamily.SQUARE_RED`.
 
 ---
 
